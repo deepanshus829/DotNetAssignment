@@ -1,0 +1,14 @@
+D:\codes\session 6sept\ShoppingCart\bin\Debug\net6.0\ShoppingCart.exe
+D:\codes\session 6sept\ShoppingCart\bin\Debug\net6.0\ShoppingCart.deps.json
+D:\codes\session 6sept\ShoppingCart\bin\Debug\net6.0\ShoppingCart.runtimeconfig.json
+D:\codes\session 6sept\ShoppingCart\bin\Debug\net6.0\ShoppingCart.dll
+D:\codes\session 6sept\ShoppingCart\bin\Debug\net6.0\ShoppingCart.pdb
+D:\codes\session 6sept\ShoppingCart\obj\Debug\net6.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\session 6sept\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfoInputs.cache
+D:\codes\session 6sept\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfo.cs
+D:\codes\session 6sept\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CoreCompileInputs.cache
+D:\codes\session 6sept\ShoppingCart\obj\Debug\net6.0\ShoppingCart.dll
+D:\codes\session 6sept\ShoppingCart\obj\Debug\net6.0\refint\ShoppingCart.dll
+D:\codes\session 6sept\ShoppingCart\obj\Debug\net6.0\ShoppingCart.pdb
+D:\codes\session 6sept\ShoppingCart\obj\Debug\net6.0\ShoppingCart.genruntimeconfig.cache
+D:\codes\session 6sept\ShoppingCart\obj\Debug\net6.0\ref\ShoppingCart.dll
